@@ -1,6 +1,6 @@
 🏥 Horizon Health Network — Power BI Dashboard
 
-📊 Project Overview
+📊 Project Overview:-
 An interactive Power BI dashboard developed to analyze healthcare operations, financial performance, facility-level metrics, and strategic planning scenarios.
 The dashboard provides executives with actionable insights through KPIs, interactive filters, financial analysis, and what-if scenario analysis.
 
